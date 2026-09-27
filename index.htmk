@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AR Service | AC & Home Appliance Service</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#f5f7fa;color:#222}
+header{background:#111827;color:white;text-align:center;padding:35px 15px}
+header h1{margin:0;font-size:36px}
+header p{font-size:18px}
+section{padding:30px 20px;max-width:900px;margin:auto}
+.card{background:white;padding:25px;margin:15px 0;border-radius:15px;box-shadow:0 3px 12px #ddd}
+h2{text-align:center}
+.services{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:15px}
+.service{padding:20px;background:white;border-radius:12px;text-align:center;box-shadow:0 2px 8px #ddd}
+.btn{display:inline-block;background:#16a34a;color:white;padding:14px 22px;border-radius:8px;text-decoration:none;font-weight:bold}
+footer{background:#111827;color:white;text-align:center;padding:20px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>AR Service</h1>
+<p>AC & Home Appliance Service</p>
+<p>Reliable Service at Your Doorstep</p>
+</header>
+
+<section>
+<h2>Our Services</h2>
+
+<div class="services">
+<div class="service">❄️<h3>AC Service</h3><p>AC Washing, Installation & Repair</p></div>
+<div class="service">🔧<h3>AC Repair</h3><p>Cooling Problem & Gas Charging</p></div>
+<div class="service">🧺<h3>Washing Machine</h3><p>Repair & Service</p></div>
+<div class="service">🔥<h3>Geyser Service</h3><p>Geyser Repair & Maintenance</p></div>
+</div>
+</section>
+
+<section>
+<div class="card">
+<h2>Book a Service</h2>
+<p>Appliance ki problem ke baare mein WhatsApp par message karein.</p>
+
+<a class="btn" href="https://wa.me/YOUR_NUMBER">
+Message on WhatsApp
+</a>
+</div>
+</section>
+
+<footer>
+<b>AR Service</b><br>
+AC & Home Appliance Service<br>
+Lucknow & Nearby Areas
+</footer>
+
+</body>
+  </html>
